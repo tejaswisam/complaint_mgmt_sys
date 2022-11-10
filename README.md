@@ -1,2 +1,2 @@
-# Hostel and Mess Complaint Registration System for IIITDM
- hmcrs
+# HMCRS
+Hostel and Mess Complaint Registration System for IIITDM
